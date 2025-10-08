@@ -1,4 +1,4 @@
-# EXP 3 - Delhi Air Quality Analysis**
+# EXP 3 - Delhi Air Quality Analysis
 
 ```
 Name         : Shivaram M.
